@@ -1,0 +1,5 @@
+Beginner Path:
+
+(https://www.vuemastery.com/courses-path/beginner)
+* Lesson 1: Intro to Vue.js https://www.vuemastery.com/courses/intro-to-vue-js
+* Lesson 2: Real World Vue.js https://www.vuemastery.com/courses/real-world-vue-js
