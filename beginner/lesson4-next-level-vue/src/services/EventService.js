@@ -10,11 +10,11 @@ const apiClient = axios.create({
   }
 })
 
-apiClient.interceptors.request.use(config => { // Called on request
+apiClient.interceptors.request.use(config => {
   NProgress.start()
   return config
 })
-apiClient.interceptors.response.use(response => { // Called on response
+apiClient.interceptors.response.use(response => {
   NProgress.done()
   return response
 })
