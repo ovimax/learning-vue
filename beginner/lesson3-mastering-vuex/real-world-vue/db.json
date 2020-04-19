@@ -44,6 +44,24 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 4580160,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Monster Ham",
+      "description": "Eat the biggest Ham sandwich",
+      "location": "Near by",
+      "date": "2020-04-10T15:53:00.000Z",
+      "time": "18:00",
+      "attendees": []
     }
   ]
 }
